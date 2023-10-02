@@ -1,6 +1,7 @@
 # dev-blog
-# *LINKS*
-[Trello](https://ajsloan1020.wixsite.com/stemforkiddos)
+## *LINKS*
+[Trello](https://ajsloan1020.wixsite.com/stemforkiddos)  
+
 [STEM 4 Kiddos](https://trello.com/b/cmits3CZ/stem-for-kiddos)
 
 ## Week 4 09/25 - 10/01

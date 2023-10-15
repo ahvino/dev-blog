@@ -4,6 +4,9 @@
 
 [STEM 4 Kiddos](https://trello.com/b/cmits3CZ/stem-for-kiddos)
 
+## Week 5 10/02 - 10/08
+[Week 5 Journal](https://github.com/ahvino/dev-blog/blob/main/Week%205%20journal.pdf)
+
 ## Week 4 09/25 - 10/01
 [Week 4 Journal](https://github.com/ahvino/dev-blog/blob/main/Week%204%20journal.pdf)
 

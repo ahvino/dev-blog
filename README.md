@@ -4,6 +4,9 @@
 
 [STEM 4 Kiddos](https://trello.com/b/cmits3CZ/stem-for-kiddos)
 
+## STEM for Kiddos Demo Video and Presentation
+
+
 ## Week 5 10/02 - 10/08
 [Week 5 Journal](https://github.com/ahvino/dev-blog/blob/main/Week%205%20journal.pdf)
 

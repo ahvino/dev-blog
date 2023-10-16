@@ -2,6 +2,9 @@
 ### *LINKS*
 [Trello](https://ajsloan1020.wixsite.com/stemforkiddos)  
 
+## Week 6 10/09 - 10/15
+[Week 6 Journal](https://github.com/ahvino/dev-blog/blob/main/Week%206%20Journal.pdf)
+
 [STEM 4 Kiddos](https://trello.com/b/cmits3CZ/stem-for-kiddos)
 
 ## STEM for Kiddos Demo Video and Presentation

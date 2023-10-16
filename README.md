@@ -6,7 +6,9 @@
 
 ## STEM for Kiddos Demo Video and Presentation
 [Final Pitch Video](https://github.com/ahvino/dev-blog/blob/main/STEM%20for%20Kiddos%20Final%20Pitch.mkv)
+
 [Pitch Presentation](https://github.com/ahvino/dev-blog/blob/main/STEM%20for%20Kiddos%20%20Pitch%20Video%20PDF.pdf)
+
 [Demo Pitch Video](https://github.com/ahvino/dev-blog/blob/main/STEM%20for%20kiddos%20pitch.mkv)
 
 

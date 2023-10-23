@@ -5,6 +5,8 @@
 ## MS 201 Postmortem
 [Postmortem](https://github.com/ahvino/dev-blog/blob/main/post%20mortem.pdf)
 
+## Week 7 10/16 - 10/22
+[Week 7 Journal](https://github.com/ahvino/dev-blog/blob/main/Week%207%20Journal.pdf)
 
 ## Week 6 10/09 - 10/15
 [Week 6 Journal](https://github.com/ahvino/dev-blog/blob/main/Week%206%20Journal.pdf)
